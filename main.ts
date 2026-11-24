@@ -9,7 +9,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LETTER =
-  "I resign: the printer jammed, the Wi-Fi died, and I have decided to follow their example.";
+  "I resign as a hearse driver: after twenty years of delivering people to their final rest, today the cargo is me.";
 
 // The competition gate: /output/entry.txt must be UTF-8 text of
 // 1 to 140 characters, not only whitespace, on a single line.

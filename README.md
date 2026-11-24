@@ -1,6 +1,6 @@
 # The One-Line Exit — make.fun entry
 
-One single-line resignation letter, 89 characters, written for the [The One-Line Exit](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1) bounty on make.fun.
+One single-line resignation letter, 112 characters, written for the [The One-Line Exit](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1) bounty on make.fun.
 
 [![make.fun](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
 [![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/prosky1/u-kreutzx-the-one-line-exit-1dc652d1-entry/rank.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
@@ -8,7 +8,7 @@ One single-line resignation letter, 89 characters, written for the [The One-Line
 
 ## The line
 
-> I resign: the printer jammed, the Wi-Fi died, and I have decided to follow their example.
+> I resign as a hearse driver: after twenty years of delivering people to their final rest, today the cargo is me.
 
 ## How it works
 
